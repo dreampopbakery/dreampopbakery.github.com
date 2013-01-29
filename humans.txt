@@ -1,7 +1,6 @@
 /* TEAM */
 						
-Developer & designer: Alex Gibson
-Copy & images: Michelle Gibson				
+Developer & designer: Alex Gibson				
 Email: alxgbsn@gmail.com				
 Twitter: @alex_gibson						
 Location: Newcastle upon Tyne, United Kingdom
