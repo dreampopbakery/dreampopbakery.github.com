@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Dream Pop Bakery</title>
+ <link href="http://dreampopbakery.co.uk/feed/" rel="self"/>
+ <link href="http://dreampopbakery.co.uk/"/>
+ <updated>2013-01-29T08:21:23+00:00</updated>
+ <id>http://dreampopbakery.co.uk/</id>
+ <author>
+   <name>Michelle Gibson</name>
+   <email>eat@dreampopbakery.co.uk</email>
+ </author>
+
+ 
+ 
+</feed>

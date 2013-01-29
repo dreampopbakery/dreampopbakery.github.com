@@ -1,0 +1,2 @@
+Allow: /
+Sitemap: http://dreampopbakery.co.uk/sitemap.xml
