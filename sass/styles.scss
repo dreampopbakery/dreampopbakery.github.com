@@ -194,8 +194,8 @@ footer[role=contentinfo] {
 
 form.search {
 
+    position: relative;
     text-align: center;
-    height: 44px;
     line-height: 44px;
     margin: 1em auto;
 
@@ -219,7 +219,12 @@ form.search {
     }
 
     ::-webkit-input-placeholder, :-moz-placeholder { 
+        font-weight: normal;
     } 
+
+    button[type=search] {
+        font-weight: normal;
+    }
 }
 
 .product-img {
