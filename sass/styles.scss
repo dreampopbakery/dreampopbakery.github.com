@@ -29,6 +29,10 @@ a:hover, a:active, a:focus {
     outline: none;
 }
 
+a.img-link {
+   border-bottom: none; 
+}
+
 p, ul > li {
     line-height: 1.5em
 }
